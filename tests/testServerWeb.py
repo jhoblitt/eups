@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Tests for eups.server, focussing on web tranport mechanisms
 """

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Tests for selected app functions.  Note that functions from the eups.app 
 module are imported into the eups module.  Note also the most of these 

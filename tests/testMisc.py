@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Miscellaneous Tests.  These might eventually be migrated into other test
 files.  
